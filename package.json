@@ -1,0 +1,23 @@
+{
+  "name": "misc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "library-backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstack-hy2020/misc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstack-hy2020/misc/issues"
+  },
+  "homepage": "https://github.com/fullstack-hy2020/misc#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "graphql": "^16.4.0"
+  }
+}
